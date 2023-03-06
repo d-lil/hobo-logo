@@ -12,7 +12,9 @@
   To install the dependencies needed, open the console and run:
   npm i
   ## Usage:
-  Use the command prompt to answer a series of questions to help personalize the logo to your liking.
+  https://drive.google.com/file/d/1h3cydVBJ3xctNcP8AB4Q1KI2g91IOEa-/view
+
+  - Use the command prompt to answer a series of questions to help personalize the logo to your liking.
   ## License:
   The MIT License (MIT)
 
