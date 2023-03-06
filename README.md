@@ -28,6 +28,6 @@
   ## Contributing:
   You are unable to contribute at this time.
   ## Tests:
-  --------FILL THIS SECTION ONCE YOU KNOW WHAT YOU'RE DOING LOL---------
+  Tests were run through jest. Outputs of each shape were tested to make sure they showed up properly in svg file.
   ## Questions:
   If you have questions, you may contact me on [GitHub](https://github.com/d-lil) or you may reach out by contacting Daniel Liljegren at dahneel@gmail.com
