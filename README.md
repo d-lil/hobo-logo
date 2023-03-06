@@ -11,6 +11,8 @@
   ## Installation:
   To install the dependencies needed, open the console and run:
   npm i
+  If you want to run testing, you will have to install jest as well with:
+  npm i jest
   ## Usage:
   https://drive.google.com/file/d/1h3cydVBJ3xctNcP8AB4Q1KI2g91IOEa-/view
 
